@@ -1,0 +1,42 @@
+/* TYPOGRAPHY */
+.cms--body{
+	font-family:$theme-base-font-family;
+	font-size:$theme-base-font-size;
+}
+.cms--hdg{
+	font-family: $theme-base-font-headings;
+	font-weight:$theme-base-font-headings-weight;
+	line-height: $theme-base-font-headings-lineheight;
+	color:$theme-base-font-headings-color;
+}
+.cms--hdg-1{
+	font-size:$theme-base-font-size*3;
+}
+.cms--hdg-2{
+	font-size:$theme-base-font-size*2;
+}
+.cms--hdg-3{
+	font-size:$theme-base-font-size*1.5;
+}
+.cms--hdg-4{
+	font-size:$theme-base-font-size*1.2;
+}
+.cms--hdg-5{
+	font-size:$theme-base-font-size*1;
+}
+.cms--hdg-6{
+	font-size:$theme-base-font-size*1;
+}
+.cms--hdg-7{
+	font-size:$theme-base-font-size*.92;
+}
+.cms--txt{
+	font-family: $theme-base-font-text;
+	font-size:$theme-base-font-size*1;
+	font-weight:$theme-base-font-text-weight;
+	line-height:$theme-base-font-text-lineheight;
+	color:$theme-base-font-text-color;
+}
+.cms--txt-desc{
+	font-size:$theme-base-font-size*1.2;
+}
